@@ -1,7 +1,7 @@
 # react-store-locator
 Store locator
 In this project, you will show a marker for the store that the user chooses from the dropdown!
-https://res.cloudinary.com/dbfn5lnvx/video/upload/q_auto,w_800/v1587715630/react-tutorial/lessons/project-vii.mp4
+
 
 Start by replacing the access token with your own access token. You can get it from the previous project or your mapbox account.
 Create a marker that has the same position as the map's center. That's longitude, latitude: 12.567898, 55.67583. Here's how you create a marker in JavaScript:
